@@ -1,0 +1,29 @@
+body{
+	background-color: #3e0d3f;
+	font-family:serif;
+	font-weight: bold;
+	color: #ffd700;
+}
+
+h1 {
+	color: #7fffd4;
+	font-size: 40px;
+	font-family: Arial;
+	text-decoration: underline;
+}
+
+ul{
+	list-style: square;
+}
+
+h3{
+	color: #7fffd4;
+	font-family: Arial;
+	text-decoration: bold;
+	text-decoration: underline;
+}
+
+li{	
+	text-decoration: bold;
+	text-decoration: underline;
+}
